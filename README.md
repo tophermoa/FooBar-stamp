@@ -33,4 +33,4 @@ https://github.com/tophermoa/FooBar-stamp.git
 `index.html`
 
 ## 🔍 Output
-<img align='right' src="assets/output.png">
+![Output Preview](assets/output.png)
